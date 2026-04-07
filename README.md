@@ -51,7 +51,7 @@ In autonomous vehicle systems, traffic sign detection is critical for safe navig
 
 Click the badge below to open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Ayesha_Javaid_Portfolio_Project_CV_DS8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AyeshaJavaid676/Computer-Vision/blob/main/Ayesha_Javaid_Portfolio_Project_CV_DS8.ipynb)
 
 > ⚠️ Make sure to set the **runtime to T4 GPU** before running: `Runtime → Change runtime type → T4 GPU`
 
