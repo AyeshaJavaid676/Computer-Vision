@@ -1,0 +1,24 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# YOLOv8
+ultralytics>=8.0.0
+
+# Dataset management
+roboflow
+
+# Computer vision & image processing
+opencv-python>=4.7.0
+Pillow>=9.0.0
+
+# Data science
+numpy>=1.24.0
+pandas>=1.5.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.64.0
+ray[tune]>=2.0.0
