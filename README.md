@@ -29,7 +29,7 @@ traffic-signs-yolov8/
 ├── README.md                                       # Project documentation
 ├── requirements.txt                                # Python dependencies
 ├── .gitignore                                      # Files to exclude from git
-└── assets/                                         # Sample output images (optional)
+
 ```
 
 ---
@@ -127,10 +127,7 @@ After training, the model is evaluated using:
 ## 📎 References
 
 - [YOLOv8 Documentation](https://docs.ultralytics.com/)
-- [Traffic Signs Detection using YOLOv8 — Kaggle Reference](https://www.kaggle.com/code/pkdarabi/traffic-signs-detection-using-yolov8)
 - [German Traffic Sign Dataset on Roboflow](https://universe.roboflow.com/search?q=german%2520traffic%2520sign)
-- [GTSRB on Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
-
 ---
 
 ## 👩‍💻 Author
