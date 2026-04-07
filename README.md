@@ -28,7 +28,7 @@ traffic-signs-yolov8/
 ├── Ayesha_Javaid_Portfolio_Project_CV_DS8.ipynb   # Main Colab notebook
 ├── README.md                                       # Project documentation
 ├── requirements.txt                                # Python dependencies
-├── .gitignore                                      # Files to exclude from git
+
 
 ```
 
